@@ -6,7 +6,6 @@ Technology fan and lover.
 - 🧑🏻‍🎓 I'm a software engineering student
 - 👨🏻‍💻 I'm currently working on [Tributo Justo](https://tributojusto.com.br/)
 - 🧰 I'm currently working with Python
-- 📖 I'm learning about C# and ASP.NET.
 
 #
 ### ⚙️ Tools and Technologies
