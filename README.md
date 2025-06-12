@@ -4,9 +4,8 @@
 Technology fan and lover.
 
 - 🧑🏻‍🎓 I'm a software engineering student
-- 👨🏻‍💻 I'm currently working on [Tributo Justo](https://tributojusto.com.br/)
-- 🧰 I'm currently working with Python
-- 📖 I'm learning about Machine Learning.
+- 👨🏻‍💻 I'm currently working on [Coonecta](https://www.coonecta.com.br/)
+- 🧰 I'm currently working with C# and .NET
 
 #
 ### ⚙️ Tools and Technologies
